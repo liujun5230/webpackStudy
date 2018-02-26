@@ -1,0 +1,30 @@
+{
+  "name": "testwp",
+  "version": "1.0.0",
+  "description": "learn how to use webpack",
+  "main": "./public/bundle.js",
+  "dependencies": {
+    "webpack": "^1.13.2"
+  },
+  "devDependencies": {
+    "webpack-dev-server": "^3.0.0"
+  },
+  "scripts": {
+    "test": "npm test",
+    "start": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/liujun5230/webpackStudy.git"
+  },
+  "keywords": [
+    "webpack",
+    "study"
+  ],
+  "author": "macliu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/liujun5230/webpackStudy/issues"
+  },
+  "homepage": "https://github.com/liujun5230/webpackStudy#readme"
+}
